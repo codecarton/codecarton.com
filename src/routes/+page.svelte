@@ -16,7 +16,7 @@
 	<p style="color: white; font-family: sans-serif;">
 		A fractional calculator app designed for woodworkers and other makers.
 	</p>
-	<a href="fractionsapp.com" style="color: #D447F0;">Sign up for beta waiting list</a>
+	<a href="https://fractionsapp.com" style="color: #D447F0;">Sign up for beta waiting list</a>
 </div>
 
 <style>
