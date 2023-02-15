@@ -17,6 +17,10 @@
 		A fractional calculator app designed for woodworkers and other makers.
 	</p>
 	<a href="https://fractionsapp.com" style="color: #D447F0;">Sign up for beta waiting list</a>
+
+	<a href="/privacy-policy" style="color: #777;margin-top: 100px;display: block;" target="_blank"
+		>Privacy Policy</a
+	>
 </div>
 
 <style>
