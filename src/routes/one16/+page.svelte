@@ -1,72 +1,41 @@
-<svelte:head>
-	<title>One16 by Code Carton</title>
-</svelte:head>
 <header>
-	<img src="/code-carton-logo.svg" alt="Code Carton Logo" />
-	<nav>
-		<a href="https://twitter.com/codecarton" rel="norefferr">Twitter</a>
-		<a href="mailto:hello@codecarton.com">Email</a>
-	</nav>
+	<img src="images/app-icon.svg" alt="One16 App Icon" />
+	<h1>One16</h1>
+	<h3>A fraction calculator designed for woodworkers and makers.</h3>
+
+	<img src="/images/download-on-the-app-store.svg" alt="Download on the App Store" />
 </header>
 
-<div>
-	<img src="/iPhone.png" alt="Screnshot of Fractions iOS App on an iPhone 14 Pro" width="300px" />
-	<br />
-	<h2>One16</h2>
-	<p style="color: white; font-family: sans-serif;">
-		A fractional calculator designed for woodworkers and other makers.
-	</p>
-	<!-- <a href="https://fractionsapp.com" style="color: #D447F0;">Sign up for beta waiting list</a> -->
-
-	<a href="one16/privacy" style="color: #777;margin-top: 100px;display: block;" target="_blank"
-		>Privacy Policy</a
-	>
+<div class="feature">
+	<img src="images/Intro-iPhone.png" alt="" />
+	<h2>Fractions, now in first class</h2>
+	<h3>
+		Create equations with fractions or decimals. One16 updates everything to fractions
+		automatically.
+	</h3>
 </div>
 
+<footer>
+	<a href="mailto://hello@codecarton.com">Contact Us</a>
+	<a href="/one16/privacy" rel="noreferrer" target="_blank">Privacy Policy</a>
+	<a href="http://twitter.com/codecarton" rel="noreferrer" target="_blank">Follow us on Twitter</a>
+</footer>
+
 <style>
-	:global(body) {
-		background-color: #1f1f1f;
-		padding: 20px;
+	header {
 		text-align: center;
-		display: block;
-		margin: 0 auto;
 	}
 
-	h2 {
-		font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-			Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-		font-weight: 600;
-		color: white;
-		font-size: 60px;
+	.feature {
+		text-align: center;
+		padding: 100px 0;
 	}
 
-	p {
-		font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-			Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-		color: white;
-		font-size: 20px;
-	}
-
-	a {
-		color: white;
-		font-family: Arial, Helvetica, sans-serif;
-		text-decoration: none;
-	}
-
-	a:hover {
-		font-weight: 600;
-	}
-
-	nav {
-		margin-top: 10px;
-		margin-bottom: 10px;
-	}
-
-	nav a {
-		margin: 0 15px;
-	}
-
-	div img {
-		margin-top: 10px;
+	footer {
+		font-family: SFPro-Light;
+		font-weight: 100;
+		font-size: 18px;
+		color: #ffffff70;
+		text-align: center;
 	}
 </style>
