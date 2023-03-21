@@ -1,9 +1,14 @@
-<header>
-	<img src="images/app-icon.svg" alt="One16 App Icon" />
-	<h1>One16</h1>
-	<h3>A fraction calculator designed for woodworkers and makers.</h3>
+<script lang="ts">
+	import DownloadButton from '$lib/components/DownloadButton.svelte';
+	import Headline from '$lib/components/Headline.svelte';
+</script>
 
-	<img src="/images/download-on-the-app-store.svg" alt="Download on the App Store" />
+<header class="md:text-center">
+	<img src="images/app-icon.svg" alt="One16 App Icon" />
+	<Headline title="One16" tagline="A fraction calculator designed for woodworkers and makers." />
+	<div class="md:mx-auto">
+		<DownloadButton />
+	</div>
 </header>
 
 <div class="feature">
@@ -15,27 +20,8 @@
 	</h3>
 </div>
 
-<footer>
-	<a href="mailto://hello@codecarton.com">Contact Us</a>
-	<a href="/one16/privacy" rel="noreferrer" target="_blank">Privacy Policy</a>
-	<a href="http://twitter.com/codecarton" rel="noreferrer" target="_blank">Follow us on Twitter</a>
-</footer>
-
-<style>
-	header {
-		text-align: center;
-	}
-
-	.feature {
-		text-align: center;
-		padding: 100px 0;
-	}
-
-	footer {
-		font-family: SFPro-Light;
-		font-weight: 100;
-		font-size: 18px;
-		color: #ffffff70;
-		text-align: center;
+<style lang="postcss">
+	img {
+		@apply md:mx-auto;
 	}
 </style>
