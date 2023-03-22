@@ -6,9 +6,8 @@
 <header class="md:text-center">
 	<img src="images/app-icon.svg" alt="One16 App Icon" />
 	<Headline title="One16" tagline="A fraction calculator designed for woodworkers and makers." />
-	<div class="md:mx-auto">
-		<DownloadButton />
-	</div>
+
+	<DownloadButton />
 </header>
 
 <div class="feature">
