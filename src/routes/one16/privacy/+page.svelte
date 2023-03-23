@@ -7,6 +7,12 @@
 			font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 			padding: 1em;
 		}
+
+		html {
+			background: #fff;
+			background-image: none !important;
+			padding-top: 0;
+		}
 	</style>
 </svelte:head>
 <strong>Privacy Policy</strong>
