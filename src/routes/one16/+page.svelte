@@ -106,7 +106,7 @@
 <div class="text-center pt-20 px-10 md:max-w-2xl md:mx-auto my-32">
 	<Subheadline
 		title="Built for makers, by makers"
-		tagline="Code Carton is a one man company. One16 was created out of frustration with the current fraction first calculators that exists on the the Apple ecosystem. The features and design were influenced by what I needed in a app while in the workshop."
+		tagline="Code Carton is a one man company. One16 was created out of frustration with the current fraction calculators that exists on the the Apple ecosystem. The features and design were influenced by what I needed in a app while in the workshop."
 	/>
 </div>
 
