@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Title from './Title.svelte';
+	import H2 from './H2.svelte';
 	import Tagline from './Tagline.svelte';
 
 	export let title: String;
@@ -7,6 +7,6 @@
 </script>
 
 <div class="mt-5 mb-10">
-	<Title {title} />
+	<H2 {title} />
 	<Tagline {tagline} />
 </div>

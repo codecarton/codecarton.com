@@ -5,9 +5,8 @@
 <svelte:head>
 	<title>One16 - A fraction first calculator designed for makers.</title>
 </svelte:head>
-<div class="max-w-5xl mx-auto">
-	<slot />
-</div>
+
+<slot />
 
 <style lang="postcss">
 	:global(html) {
@@ -16,9 +15,5 @@
 		background-repeat: no-repeat;
 		background-position: top center;
 		padding-top: 150px;
-	}
-
-	:global(h1) {
-		font-size: theme(fontSize.8xl);
 	}
 </style>

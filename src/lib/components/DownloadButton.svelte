@@ -1,10 +1,11 @@
-<a href="http://apple.com" target="_blank" rel="noreferrer">
-	<img src="/images/download-on-the-app-store.svg" alt="Download on the App Store" class="m-10" />
+<a
+	href="https://apps.apple.com/us/app/one16-fraction-calculator/id1672160610"
+	target="_blank"
+	rel="noreferrer"
+>
+	<img
+		src="/images/download-on-the-app-store.svg"
+		alt="Download on the App Store"
+		class="inline-block"
+	/>
 </a>
-
-<style lang="postcss">
-	a {
-		display: inline-block;
-		margin: 0 auto;
-	}
-</style>
