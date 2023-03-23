@@ -6,7 +6,7 @@
 	<div class="mb-20 mx-auto md:max-w-2xl">
 		<Subheadline
 			title="Widgets"
-			tagline="See measurements at a glance, without opening the app. Widgets for the lockscreen and home screen."
+			tagline="Our phones are often doing double duty in the shop. Widgets allow you to view the latest answer easily on your lock screen or home screen so that you can get the information you need as quickly as possible without having to reopen the app."
 		/>
 	</div>
 	<div class="mx-auto">

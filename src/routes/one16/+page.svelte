@@ -40,7 +40,7 @@
 		<div class="md:pl-8 py-10 md:my-auto md:py-0 text-center md:text-left">
 			<Subheadline
 				title="Quick Toggle"
-				tagline="Easily see what a fraction is in decimal format, if needed"
+				tagline="One16 can easily convert decimals to fractions, and vise versa. Allowing for a wide range of flexibility in how you work."
 			/>
 		</div>
 		<div class="md:shrink-0 md:hidden">
@@ -58,7 +58,7 @@
 		<div class="md:pr-8 py-10 md:my-auto md:py-0 text-center md:text-right">
 			<Subheadline
 				title="Equation Builder"
-				tagline="Quickly create an equation by double-tapping previous components."
+				tagline="We are usually working with the same measurement several times. Quick Builder allows you to double tape any term in the history tape to quickly reuse, saving you the extra keystrokes."
 			/>
 		</div>
 		<div class="md:shrink-0">
@@ -83,7 +83,7 @@
 		<div class="md:pl-8 py-10 md:my-auto md:py-0 text-center md:text-left">
 			<Subheadline
 				title="Left-Handed Mode"
-				tagline="In addition to the standard keyboard, One16 includes a keyboard optimized for lefties."
+				tagline="Two variants of our calculator keyboard, one for right handed use and one for left handed. We have carefully thought about what buttons are most used, and placed them in easier-to-reach areas."
 			/>
 		</div>
 		<div class="md:shrink-0 md:hidden">
@@ -106,7 +106,7 @@
 <div class="text-center pt-20 px-10 md:max-w-2xl md:mx-auto my-32">
 	<Subheadline
 		title="Built for makers, by makers"
-		tagline="One16 was built out of frustration with the faction calculator options available in the Apple ecosystem."
+		tagline="Code Carton is a one man company. One16 was created out of frustration with the current fraction first calculators that exists on the the Apple ecosystem. The features and design were influenced by what I needed in a app while in the workshop."
 	/>
 </div>
 
