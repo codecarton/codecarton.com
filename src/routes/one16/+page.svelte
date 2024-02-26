@@ -58,7 +58,7 @@
 		<div class="md:pr-8 py-10 md:my-auto md:py-0 text-center md:text-right">
 			<Subheadline
 				title="Equation Builder"
-				tagline="We are usually working with the same measurement several times. Quick Builder allows you to double tape any term in the history tape to quickly reuse, saving you the extra keystrokes."
+				tagline="We are usually working with the same measurement several times. Quick Builder allows you to double tap any term in the history tape to quickly reuse, saving you the extra keystrokes."
 			/>
 		</div>
 		<div class="md:shrink-0">
